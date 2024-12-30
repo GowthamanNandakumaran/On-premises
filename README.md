@@ -1,4 +1,4 @@
-# 🎉 Thrilled to Share a Recent Azure Data Engineering Project! 🚀
+# Azure Data Engineering Project 🚀
 
 In this project, I leveraged a variety of cutting-edge Azure tools and technologies to build a robust, scalable, and efficient data pipeline. The project follows the **Medallion Architecture** (Bronze, Silver, Gold) for data transformation and storage, ensuring that data is clean, well-structured, and ready for reporting and business decision-making.
 
@@ -72,5 +72,3 @@ After the data was cleansed, enriched, and transformed, the final output was pus
 ---
 
 This project helped me develop a deep understanding of **Azure Cloud** technologies and how they can be leveraged to build scalable, efficient data pipelines for real-world scenarios.
-
-I am excited to continue exploring and working with Azure Data Engineering technologies and look forward to applying my skills in future projects and professional opportunities!
